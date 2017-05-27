@@ -13,11 +13,11 @@ A game built with Express and Phaser.js
 *NOTE: You must install Node.js to use npm:  https://nodejs.org/
 
 To confirm Node.js is installed:
-```
+``
 node -v
-```
+``
 
 To confirm npm is installed:
-```
+``
 npm -v
-```
+``
